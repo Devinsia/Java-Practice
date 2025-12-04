@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tasks>
+    <task>
+        <description>Office Hour</description>
+        <taskId>1</taskId>
+        <time>10:00AM-11:00AM</time>
+    </task>
+    <task>
+        <description>Study Session</description>
+        <taskId>2</taskId>
+        <time>02:00PM-03:00PM</time>
+    </task>
+    <task>
+        <description>Dinner Preparation</description>
+        <taskId>3</taskId>
+        <time>05:30PM-07:00PM</time>
+    </task>
+</tasks>

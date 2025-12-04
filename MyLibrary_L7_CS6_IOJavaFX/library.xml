@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <Book>
+        <author>Charles Dickens</author>
+        <title>A Tale of Two Cities</title>
+        <year>1867</year>
+    </Book>
+    <Book>
+        <author>Jane Austin</author>
+        <title>Pride and Prejudice</title>
+        <year>1856</year>
+    </Book>
+    <Book>
+        <author>Lewis Caroll</author>
+        <title>Alice in Wonderland</title>
+        <year>1899</year>
+    </Book>
+</library>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.BorderPane?>
+
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/24.0.1" fx:controller="application.StudentViewerController">
+   <top>
+      <ListView fx:id="studentListView" maxHeight="1.7976931348623157E308" prefHeight="200.0" BorderPane.alignment="CENTER">
+         <padding>
+            <Insets bottom="8.0" />
+         </padding>
+      </ListView>
+   </top>
+   <center>
+      <TextArea fx:id="descTextArea" maxHeight="1.7976931348623157E308" style="-fx-background-color: white;" BorderPane.alignment="CENTER" />
+   </center>
+   <padding>
+      <Insets bottom="8.0" left="8.0" right="8.0" top="8.0" />
+   </padding>
+</BorderPane>

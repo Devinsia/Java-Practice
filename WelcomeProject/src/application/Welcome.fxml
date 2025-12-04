@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox alignment="CENTER" prefHeight="300.0" prefWidth="450.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/24.0.1" fx:controller="application.WelcomeController">
+   <children>
+      <Label text="Welcome to JavaFx!">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <ImageView pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="file:/C:/Users/Student-Win11/eclipse-workspace/WelcomeProject/src/application/bug.png" />
+         </image>
+      </ImageView>
+   </children>
+</VBox>
